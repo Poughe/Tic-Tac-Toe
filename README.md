@@ -3,7 +3,9 @@ The classic Tic-Tac-Toe game. This app has several features including a feature 
 
 **Link to project:** https://mytictac-toe.netlify.app/
 
-![alt tag]
+![alt tag](https://imgur.com/UKs4v4L)
+![alt tag](https://imgur.com/Y0heg9w)
+
 
 ## How It's Made:
 
